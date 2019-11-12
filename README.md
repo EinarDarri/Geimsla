@@ -1,10 +1,4 @@
 Hallo
 finnur
 Jón
-Einar
-Elísas
-Nonni
-Lee
-Tea
-Tsunami
-Bæ
+Eppli
