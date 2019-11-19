@@ -11,7 +11,7 @@
 	* git log - sínir þér allar commitments sem hafa verið sentar
 	* git checkout - Uppfærir skrár í vinnandi tré til að passa við útgáfuna í vísitölunni
 	* git branch - það býr til nýja grein
-1. Hvað er útgáfustýring (Version Control)?
-1. Hverjir eru helstu kostir við að nota GIT?
-1. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+1. Hvað er útgáfustýring (Version Control)? - git er Version Control.
+1. Hverjir eru helstu kostir við að nota GIT? - til að gera tilraunir án þess að eiðilegja verkefnið
+1. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - Þegar það virkar
 1. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
