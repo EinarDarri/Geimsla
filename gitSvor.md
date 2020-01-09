@@ -12,6 +12,6 @@
 	* git checkout - Uppfærir skrár í vinnandi tré til að passa við útgáfuna í vísitölunni
 	* git branch - það býr til nýja grein
 1. Hvað er útgáfustýring (Version Control)? - Version Control er það sem leifir þér taka útgáfur til baka.
-1. Hverjir eru helstu kostir við að nota GIT? - til að gera tilraunir án þess að eiðilegja verkefnið
+1. Hverjir eru helstu kostir við að nota GIT? - til að gera tilraunir án þess að eiðilegja verkefnið - Skodun á git "GIT ER GOD"
 1. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - Þegar það virkar
 1. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? - það er mappan sem verkefnið er geymt í. 
